@@ -1,0 +1,12 @@
+.color-purple {
+    color: violet;
+    text-align: center;
+}
+.color-pink {
+    color: plum;
+    text-align: center;
+}
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
